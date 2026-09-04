@@ -1,0 +1,9 @@
+[submodule "mautrix_go"]
+	path = mautrix_go
+	url = https://github.com/szhebet/mautrix_go.git
+[submodule "mautrix_telegram"]
+	path = mautrix_telegram
+	url = https://github.com/szhebet/mautrix_telegram.git
+[submodule "mautrix_whatsapp"]
+	path = mautrix_whatsapp
+	url = https://github.com/szhebet/mautrix_whatsapp.git
